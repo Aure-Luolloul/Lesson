@@ -8,9 +8,8 @@ CameraX是开发智能应用的必要组件，本次实验十分必要。
 上图为运行后申请的使用图片和录像权限
 ![image](https://github.com/user-attachments/assets/215e8f07-51a4-4517-98d8-0bdc82c9168c)
 上图为相机预览
-
-
 ![image](https://github.com/user-attachments/assets/dec40c5f-8619-4473-af75-affbddec8b0a)
 点击录像后，start变成stop
 ![image](https://github.com/user-attachments/assets/29b6807f-9cb3-4411-b52d-764ae796a708)
 录像完成后跳出录像保存提示
+代码路径见CameraXApp
